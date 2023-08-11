@@ -39,5 +39,5 @@ const [total, taxTotal] = taxCalculation({
     tax: tax
 });
 
-// console.log(total);
-// console.log(taxTotal);
+console.log(total);
+console.log(taxTotal);

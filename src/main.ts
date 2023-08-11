@@ -6,7 +6,10 @@ import './style.css'
 // import './topics/05-basic-destructuring.ts'
 // import './topics/06-function-desctructuring.ts'
 // import './topics/07-import-export.ts'
-import './topics/08-classes.ts'
+// import './topics/08-classes.ts'
+// import './topics/09-generics'
+// import './topics/10-decorators'
+import './topics/11-optional-chaining'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   Hola Mundo en TypeScript
